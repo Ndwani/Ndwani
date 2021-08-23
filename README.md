@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ndwani
 - 👀 I’m interested in ... Programming and Engineering
-- 🌱 I’m currently learning ...Python, C/C++ and Linux
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ... Nothing at the moment
 - 📫 How to reach me ...
 
