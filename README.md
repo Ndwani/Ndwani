@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kondwani
 - 👀 I’m interested in ... Programming and Engineering
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ... small scale python projects
+- 💞️ I’m looking to collaborate on ... small scale python and engineering projects
 - 📫 How to reach me ... Mwalek05@gmail.com
 
 <!---
